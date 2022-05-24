@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemSumar"
+        android:title="@string/ItemSumar"
+        android:background="@drawable/suma"/>
+    <item
+        android:id="@+id/itemRestar"
+        android:title="@string/ItemRestar"
+        android:background="@drawable/resta"/>
+    <item
+        android:id="@+id/ItemComparar"
+        android:title="@string/ItemComparar"
+        android:background="@drawable/comparacion"/>
+    <item
+        android:id="@+id/Item1v1"
+        android:title="@string/Item1v1" />
+
+</menu>

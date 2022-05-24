@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IncreibleMat</string>
+    <string name="ItemSumar">Sumar</string>
+    <string name="ItemRestar">Restar</string>
+    <string name="ItemComparar">Mas Menos</string>
+    <string name="Item1v1">1vs1</string>
+    <string name="paul">fondaje</string>
+    <string name="btn1"></string>
+    <string name="btn2"></string>
+    <string name="btn3"></string>
+    <string name="btn4"></string>
+    <string name="btn5"></string>
+    <string name="btn6"></string>
+    <string name="btn7">←</string>
+    <string name="btn8">→</string>
+    <string name="btn9">=</string>
+    <string name="btn10"></string>
+    <string name="textview2"></string>
+    <string name="textview3"></string>
+    <string name="tv4"></string>
+    <string name="textview5"></string>
+    <string name="textview6"></string>
+    <string name="textview7"></string>
+    <string name="textview8"></string>
+    <string name="textview9"></string>
+    <string name="textview10"></string>
+    <string name="textview11"></string>
+    <string name="textview12"></string>
+</resources>
